@@ -12,6 +12,7 @@
 
 	<modules>
 		<module>../dev-tmp</module>
+		<module>../dev-util</module>
 	</modules>
 
 	<properties>
